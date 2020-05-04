@@ -1,17 +1,17 @@
-## Trabalhando com Strings e Numbers
+### Trabalhando com Strings e Numbers
 
-| String                | Number   |
-| --------------------- | -------- |
-| `"isso é uma string"` | `10`     |
-| `'isso é uma string'` | `0.10`   |
-| `isso é uma string`   | `10.50`  |
-| `10`                  | `00.001` |
-
----
+|        String         |  Number  |
+| :-------------------: | :------: |
+| `"isso é uma string"` |   `10`   |
+| `'isso é uma string'` |  `0.10`  |
+|  `isso é uma string`  | `10.50`  |
+|         `10`          | `00.001` |
 
 ---
 
-## Operadores
+---
+
+### Operadores
 
 |   Aritméticos    |  Código  |
 | :--------------: | :------: |
@@ -41,7 +41,7 @@
 
 ---
 
-## Comentarios
+### Comentarios
 
 ```js
 // Comentario de uma unica linha
@@ -57,13 +57,13 @@
 const variavel = 11; // Utilizar esse valor
 ```
 
-## Undefined e Null
+### Undefined e Null
 
 **Undefined:** É um valor e tipo de valor usado para informar que o dado não existe ou não foi definido;
 
 **Null:** É usado para informar que uma variável nasceu sem valor;
 
-## Tipos Booleanos
+### Tipos Booleanos
 
 |   FALSO   | VERDADEIRO |
 | :-------: | :--------: |
