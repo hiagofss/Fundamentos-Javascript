@@ -1,3 +1,5 @@
+# Tipos de Dados
+
 ### Trabalhando com Strings e Numbers
 
 |        String         |  Number  |
